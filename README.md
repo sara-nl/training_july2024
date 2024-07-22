@@ -10,7 +10,7 @@ We will finish the training with a small hands-on exercise on Research Drive: af
 
 To login to Research Drive, go to https://demo.data.surfsara.nl/
 
-There are 30 demo accounts named **DemoX** (where X is 1 to 30) with password **RD_Demo_bNu7**
+There are 30 demo accounts named **DemoX** (where X is 1 to 30) with password (see slides)
 
 Each account has a project folder called Data DemoX
 
