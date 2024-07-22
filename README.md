@@ -9,7 +9,9 @@
 We will finish the training with a small hands-on exercise on Research Drive: after creating/uploading dummy data to your project space, you will use a new beta RD functionality to automatically upload your dataset to a Data Repository of your choice.
 
 To login to Research Drive, go to https://demo.data.surfsara.nl/
-There are 30 demo accounts named DemoX where X is 1 to 30 with password RD_Demo_bNu7
+
+There are 30 demo accounts named **DemoX** (where X is 1 to 30) with password **RD_Demo_bNu7**
+
 Each account has a project folder called Data DemoX
 
 [Upload data](https://servicedesk.surf.nl/wiki/display/WIKI/Hands-On+for+Introduction+to+SURF+Research+Cloud) to your project folder:
